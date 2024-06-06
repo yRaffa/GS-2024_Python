@@ -26,6 +26,6 @@ Sobre o Projeto
 
 ## 📒 Instruções de Uso
 
-- Abrir o [projeto](https://github.com/yyRaffa/GS_Python.git) em uma IDE ou Editor de Código.
+- Abrir este [projeto](https://github.com/yyRaffa/GS_Python.git) em uma IDE ou Editor de Código.
 - Compilar e 'rodar' o código.
 - Seguir as intruções do programa.
