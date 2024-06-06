@@ -33,7 +33,7 @@ def buscaIndice(elemento, lista):
 
 # Declarando listas
 lista_opcoes = ['REGISTRAR', 'METAS', 'REGISTROS', 'SAIR']
-lista_residuos = ['Plasticos', 'Microplasticos', 'Poluentes Liquidos', 'Organicos']
+lista_residuos = ['PLASTICOS', 'MICROPLASTICOS', 'POLUENTES LIQUIDOS', 'ORGANICOS']
 lista_quantidades = [0, 0, 0, 0]
 lista_metas = [50, 100, 150, 50]
 
