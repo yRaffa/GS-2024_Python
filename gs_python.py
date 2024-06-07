@@ -40,6 +40,7 @@ while True:
     
     # Inicio do sistema
     print('\n----------------------------------------------------------------')
+    print('----------------------------BlueWave----------------------------')
     print('>>> GESTAO DE RESIDUOS COLETADOS E FILTRADOS PARA RECICLAGEM <<<')
     print('----------------------------------------------------------------\n')
     

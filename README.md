@@ -13,7 +13,7 @@ Entrega da matéria Computational Thinking with Python para GS 2024.
 
 ## 📕 Sobre o Projeto
 
-Sobre o Projeto
+Sistema da BlueWave, para gerir e administrar coleta de residuos poluentes nos mares, os quais são coletados e filtrados por embarcações marinhas, com o intuito de serem levados a um sistema de reciclagem.
 
 ## 🔨 Ferramentas
 
@@ -66,7 +66,6 @@ def buscaIndice(elemento, lista):
             return i
 ```
 
-
 - Declaração das listas utilizadas no sistema.
 ``` python
 lista_opcoes = ['REGISTRAR', 'METAS', 'REGISTROS', 'SAIR']
@@ -79,6 +78,7 @@ lista_metas = [50, 100, 150, 50]
 ``` python
 while True:
     print('\n----------------------------------------------------------------')
+    print('----------------------------BlueWave----------------------------')
     print('>>> GESTAO DE RESIDUOS COLETADOS E FILTRADOS PARA RECICLAGEM <<<')
     print('----------------------------------------------------------------\n')
     print('1. Registrar residuo coletado \n'
