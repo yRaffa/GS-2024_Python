@@ -1,7 +1,5 @@
 # 🌎 GS Inovação Azul
 
-[Vídeo de Explicação](https://drive.google.com/file/d/1GN2nHNuG33uEqMDNzeV3WUVm6VlePUiJ/view?usp=sharing)
-
 ## 🐍 Computational Thinking with Python
 
 Entrega da matéria Computational Thinking with Python para GS 2024.
