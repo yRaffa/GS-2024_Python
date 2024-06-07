@@ -6,10 +6,9 @@ def forcaNumerico(msg):
         num = input(msg)
         if num.isnumeric():
             num = int(num)
-            break
+            return num
         else:
             print('\n > Digite apenas valores numericos. \n')               
-    return num
 
 # Funcao para forcar uma escolha pre determinada do sistema
 def forcaEscolha(lista, msg):
@@ -17,10 +16,9 @@ def forcaEscolha(lista, msg):
     while True:
         elemento = input(msg)
         if elemento in lista:
-            break
+            return elemento
         else:
             print(f'\n > Digite uma destas opcoes: {erro}. \n')   
-    return elemento
 
 # Funcao para guardar o indice da escolha feita
 def buscaIndice(elemento, lista):
